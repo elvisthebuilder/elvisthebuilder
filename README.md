@@ -58,8 +58,18 @@ I thrive at the intersection of **code and creativity**, building solutions that
 <p align="left">
   <a href="https://github.com/elvisthebuilder">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin/in/elvisthebuilder">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/elvisthebuilder">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/elvisthebuilder">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
+
 
 ---
 
