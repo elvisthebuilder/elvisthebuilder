@@ -1,31 +1,17 @@
-# About Me
+# README
 
-Hi! I'm [elvisthebuilder](https://github.com/elvisthebuilder), a passionate developer with experience in building web applications. I love exploring new technologies and improving my skills.
+## About Me
 
----
+Hello! I'm __________, a passionate developer with a love for coding and technology. I enjoy creating innovative applications and learning new skills along the way.
 
-# Tech Stack
+## Tech Stack
 
-- **Languages:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Django
-- **Databases:** MySQL, MongoDB
-- **DevOps:** Docker, Kubernetes
-- **Other:** Git, CI/CD, REST APIs
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+## GitHub Statistics
 
-# GitHub Statistics
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elvisthebuilder&theme=dark)](https://git.io/streak-stats)
-
-![elvisthebuilder's GitHub stats](https://github-readme-stats.vercel.app/api?username=elvisthebuilder&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisthebuilder&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-# Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/elvisthebuilder)
-- [Twitter](https://twitter.com/elvisthebuilder)
-- [Personal Website](https://www.elvisthebuilder.com)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=elvisthebuilder&show_icons=true&theme=radical)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisthebuilder&layout=compact&theme=radical)
