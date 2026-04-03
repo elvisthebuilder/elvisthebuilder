@@ -16,9 +16,9 @@
 ---
 
 ## 🧠 About Me  
-
-With a **hacker's mindset** and a **developer's precision**, I craft digital experiences that are both **secure** and **seamless**.  
+ 
 My journey through **full-stack development**, **ethical hacking**, and **SaaS creation** is fueled by curiosity and a passion for solving complex problems.  
+
 I thrive at the intersection of **code and creativity**, building solutions that are not only *functional* but also *elegantly designed*.
 
 ---
