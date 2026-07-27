@@ -1,8 +1,8 @@
 # Elvis — `@elvisthebuilder`
 
-I build software that doesn't depend on somebody else's server.
+I build software. Thirty-odd projects across desktop, mobile, web and systems.
 
-Anonymous chat with no infrastructure behind it. A video feed that works in airplane mode. A pentest workstation that runs entirely on your own machine. Most of what's below started because the existing tool needed an account, a subscription, or a company staying in business.
+Everything I've built either came from a real need, or was a project to learn something new. A Tor chat client, a pentest workstation, a VR launcher, an offline video app.
 
 Ghana 🇬🇭 · Full-stack + security · Rust, TypeScript, Python, Kotlin
 
