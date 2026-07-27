@@ -1,101 +1,42 @@
-<!-- =========================
-     GITHUB PROFILE README
-     (for elvisthebuilder)
-     ========================= -->
+# Elvis — `@elvisthebuilder`
 
-<h1 align="center" style="color:#00bfff;">
-  Hi 👋, I'm <span style="color:#ffffff;">Elvis</span>
-  <br>
-  <span style="color:#00bfff;">Full-Stack Developer • Cybersecurity Enthusiast</span>
-</h1>
+I build software that doesn't depend on somebody else's server.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00bfff&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Cybersecurity+Enthusiast;Secure+%26+Scalable+Applications;Building+Modern+Web+%26+Mobile+Apps" />
-</p>
+Anonymous chat with no infrastructure behind it. A video feed that works in airplane mode. A pentest workstation that runs entirely on your own machine. Most of what's below started because the existing tool needed an account, a subscription, or a company staying in business.
+
+Ghana 🇬🇭 · Full-stack + security · Rust, TypeScript, Python, Kotlin
 
 ---
 
-## 🧠 About Me  
- 
-My journey through **full-stack development**, **ethical hacking**, and **SaaS creation** is fueled by curiosity and a passion for solving complex problems.  
+## Things I've built
 
-I thrive at the intersection of **code and creativity**, building solutions that are not only *functional* but also *elegantly designed*.
+| Project | What it does | Stack |
+|---|---|---|
+| **[Y](https://github.com/elvisthebuilder/Y)** | Anonymous chat over Tor with no server and no accounts. Your Ed25519 keypair *is* your identity — messages gossip peer-to-peer through a Kademlia DHT and persist even when you're offline. | Rust, arti (Tor), ratatui |
+| **[cyber-box](https://github.com/elvisthebuilder/cyber-box)** | A desktop pentest workstation. Every tool — nmap, sqlmap, hydra, tshark — runs sandboxed in Docker and streams live into an embedded terminal. Local AI assistant, no cloud calls. | Tauri, Svelte, Rust, Docker |
+| **[OffReel](https://github.com/elvisthebuilder/OffReel)** · [site](https://offreel.vercel.app) | Turns your camera roll into a swipeable vertical feed. Zero algorithms, zero ads, works fully offline. Your videos never leave the phone. | React Native, Android |
+| **[PhoneVR](https://github.com/elvisthebuilder/PhoneVR)** | An Android launcher that turns any phone plus a cheap Cardboard headset into a working VR device. Custom OpenGL stereo renderer, gyroscope head tracking, no game engine. | Kotlin, OpenGL ES |
+| **[spectre](https://github.com/elvisthebuilder/spectre)** | OSINT intelligence engine and graph disambiguation plugin that gives autonomous AI agents real recon capability. Ships as an MCP server. | Python, MCP |
+| **[gokuu](https://github.com/elvisthebuilder/gokuu)** | An experiment in how far an autonomous agent can get without a human in the loop. | Python |
+| **[adb-qr](https://github.com/elvisthebuilder/adb-qr)** · [npm](https://www.npmjs.com/package/adb-qr-connect) | Connect an Android device over WiFi by scanning a QR code. No typing IPs, no typing ports. `npx adb-qr-connect`. | Node.js, mDNS |
+| **[veriAttend](https://github.com/elvisthebuilder/veriAttend)** | Digital attendance for students and lecturers, built to replace paper registers. | TypeScript |
 
----
-
-## 🧰 Tech Stack  
-
-### **Languages, Frameworks & Libraries**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,django,nodejs,react,nextjs,reactnative,tailwind,bootstrap" />
-</p>
-
-### **Tools, Platforms & Environments**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,kali,git,github,docker,figma,canva,supabase,electron,expo" />
-</p>
-
-### **AI Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/AI-ChatGPT-00bfff?logo=openai&logoColor=white" />
-</p>
+Everything is open source. Issues and PRs welcome on all of it.
 
 ---
 
-## 📊 GitHub Statistics
+## Currently
 
-### **Main Profile Stats**
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elvisthebuilder&show_icons=true&theme=tokyonight&count_private=true&bg_color=0d1117&text_color=c9cacc&icon_color=00bfff&ring_color=00bfff" />
-</p>
-
-### **Language Distribution & Most Used**
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvisthebuilder&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=c9cacc&title_color=00bfff" />
-</p>
-
-### **Contribution Streak & Activity**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elvisthebuilder&theme=tokyonight&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=00bfff&sideLabels=00bfff&dates=c9cacc" />
-</p>
-
-### **Detailed Metrics**
-<p align="center">
-  <img src="https://img.shields.io/badge/💻-Total_Repositories-00bfff?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/⭐-Stars-FFD700?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/👥-Followers-00bfff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📈-Contributions-00ff00?style=for-the-badge" />
-</p>
-
-### **GitHub Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elvisthebuilder&theme=tokyo-night&bg_color=0d1117&color=00bfff&line=00bfff&point=00bfff" />
-</p>
-
-### **Profile Views & Engagement**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elvisthebuilder&color=00bfff&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/elvisthebuilder?style=flat-square&color=00bfff&label=GitHub+Followers" />
-</p>
+Building **Y** toward a usable v1 and **cyber-box** toward its first real release. Starting to record short demos of each project — if you want to see one of these actually running, say so in the issues.
 
 ---
 
-## 🔗 Connect With Me  
-<p align="left">
-  <a href="https://github.com/elvisthebuilder">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/elvisthebuilder">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/elvisthebuilder">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/elvisthebuilder">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-</p>
+## Elsewhere
 
----
+[X](https://x.com/elvisthebuilder) · [LinkedIn](https://linkedin.com/in/elvisthebuilder) · [Instagram](https://instagram.com/elvisthebuilder)
 
-> "Technology is not only about code — it is about purpose." 🚀
+<sub>
+
+![](https://github-readme-stats.vercel.app/api?username=elvisthebuilder&show_icons=true&hide_border=true&theme=transparent&count_private=true)
+
+</sub>
