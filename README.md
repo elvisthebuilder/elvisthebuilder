@@ -19,7 +19,6 @@ Ghana 🇬🇭 · Full-stack + security · Rust, TypeScript, Python, Kotlin
 | **[spectre](https://github.com/elvisthebuilder/spectre)** | OSINT intelligence engine and graph disambiguation plugin that gives autonomous AI agents real recon capability. Ships as an MCP server. | Python, MCP |
 | **[gokuu](https://github.com/elvisthebuilder/gokuu)** | An experiment in how far an autonomous agent can get without a human in the loop. | Python |
 | **[adb-qr](https://github.com/elvisthebuilder/adb-qr)** · [npm](https://www.npmjs.com/package/adb-qr-connect) | Connect an Android device over WiFi by scanning a QR code. No typing IPs, no typing ports. `npx adb-qr-connect`. | Node.js, mDNS |
-| **[veriAttend](https://github.com/elvisthebuilder/veriAttend)** | Digital attendance for students and lecturers, built to replace paper registers. | TypeScript |
 
 Everything is open source. Issues and PRs welcome on all of it.
 
